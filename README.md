@@ -1,25 +1,33 @@
-## Hi there 👋
-# Hello, I'm Nisham 👋
 
-🎓 B.Tech CSE (AI & Machine Learning) Student
-🏫 MEA Engineering College
-💻 Interested in Software Engineering, AI, and Machine Learning
+## Hi there 👋, I'm Nisham Kizhakke Pallikkal
 
-## Skills
-- Python
-- C
-- SQL
-- Machine Learning
-- Power BI
+🎓 B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+🏫 MEA Engineering College | APJ Abdul Kalam Technological University (KTU)
+
+## 👨‍💻 About Me
+- Passionate about Software Engineering, Artificial Intelligence, and Machine Learning
+- Interested in building scalable software and solving real-world problems
+- Currently learning Data Structures & Algorithms, Operating Systems, DBMS, and Software Engineering
+
+## 🛠️ Technical Skills
+- Languages: Python, C, SQL
+- Core CS: Data Structures & Algorithms, DBMS, Operating Systems
+- AI/ML: Machine Learning
+- Data Analytics: Power BI
+- Tools: Git, GitHub, VS Code
+
+## 🚀 Projects
+- Spam Email Detection using Machine Learning *(Coming Soon)*
+- E-Commerce Management System *(Coming Soon)*
+- Power BI Sales Analytics Dashboard *(Coming Soon)*
+
+## 🌱 Currently Learning
 - Data Structures & Algorithms
-
-## Currently Learning
-- Operating Systems
-- Database Management Systems
 - Software Engineering
-- DSA
+- Database Management Systems
+- Operating Systems
 
-## Connect with Me
+## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/nisham-kizhakke-pallikkal-26b3b633a
 <!--
 **nisham-kp/nisham-kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
